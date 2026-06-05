@@ -83,11 +83,7 @@ Pizza-Sales-Analysis/
 
 ## 📸 Dashboard Screenshot
 
-(Add Dashboard Screenshot Here)
-
-```markdown
-![Pizza Sales Dashboard](pizza-sales-dashboard.png)
-```
+![image alt](https://github.com/parasmahajan78/Pizza-Sales-Analysis/blob/6e64eedc58fa1f8143aafd912425abeebcee5ae6/SQL%20pizza%20sale%20project/pizza_sales/Pizza%20Sales%20Image.png)
 
 ## 📈 Future Enhancements
 
