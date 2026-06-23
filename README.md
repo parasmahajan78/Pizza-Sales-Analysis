@@ -166,7 +166,7 @@ Pizza-Sales-Analysis/
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](Dashboard Screenshot.png)
+![Dashboard Screenshot](https://github.com/parasmahajan78/Pizza-Sales-Analysis/blob/2a57aa44c609351e1ac219692d0c6a1869db3434/SQL%20pizza%20sale%20project/pizza_sales/Pizza%20Sales%20Image.png)
 
 ---
 
